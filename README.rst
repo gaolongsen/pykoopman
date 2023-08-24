@@ -21,7 +21,7 @@ Unfortunately, it is an infinite-dimensional linear operator. Most of the time, 
 project the Koopman operator onto a finite-dimensional subspace that is spanned by user-defined/data-adaptive functions.
 
 .. math::
-    z = \Phi(x).
+    z = \phi(x).
 
 If the system state is also contained in such subspace, then effectively, the nonlinear dynamical system is (approximately)
 linearized in a global sense.
